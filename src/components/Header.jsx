@@ -12,6 +12,7 @@ const Header = () => {
         <nav className={styles.nav}>
           <a href="#hero">Inicio</a>
           <a href="#services">Servicios</a>
+          <a href="#ats-optimizer">ATS</a>
           <a href="#work">Proyectos</a>
           <a href="#features">Tecnología</a>
           <a href="#contact" className={styles.contactBtn}>Contactar</a>
