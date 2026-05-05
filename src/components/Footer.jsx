@@ -33,6 +33,9 @@ const Footer = () => {
             <a href="https://www.instagram.com/https.sunsystems.zzz?igsh=cXNyNmN4bmtpaG5u" target="_blank" rel="noopener noreferrer">
               Instagram
             </a>
+            <a href="https://www.facebook.com/share/18ftXz9XT1/" target="_blank" rel="noopener noreferrer">
+              Facebook
+            </a>
           </div>
         </div>
       </div>
