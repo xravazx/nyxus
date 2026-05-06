@@ -11,7 +11,6 @@ import CustomCursor from './components/CustomCursor';
 const Features = lazy(() => import('./components/Features'));
 const Showcase = lazy(() => import('./components/Showcase'));
 const Services = lazy(() => import('./components/Services'));
-const ResumeOptimizer = lazy(() => import('./components/ResumeOptimizer'));
 const Contact = lazy(() => import('./components/Contact'));
 
 const Loader = () => (
@@ -45,7 +44,6 @@ function App() {
         <Suspense fallback={<Loader />}>
           <Features />
           <Showcase />
-          <ResumeOptimizer />
           <Services />
           <Contact />
         </Suspense>
